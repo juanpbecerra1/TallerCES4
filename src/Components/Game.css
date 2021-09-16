@@ -1,0 +1,14 @@
+.container{
+    margin: auto;
+    width: 100%;
+    margin-top: 2px;
+}
+
+.container-form-title-question{
+    border: 3px solid rgb(173, 181, 189);
+    margin: auto;
+    width: 100%;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center   
+  }
